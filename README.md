@@ -12,5 +12,5 @@ Objects are foundations of our online content – this includes head content, a 
 
 The idea is to choose the objects appropriate for each the project thereby saving time recreating them from scratch.
 
-####Objects:
+#### Objects    
 [Typography](http://eleventhirty.github.io/pattern_library/foundations/typography.html)
