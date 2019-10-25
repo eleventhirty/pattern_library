@@ -7,10 +7,10 @@ The structure of Objects – Components – Patterns – Pages has been recreate
 
 First off we will be covering the basic principles of our pattern library by laying down the foundations with objects. 
 
-### Objects
+###Objects
 Objects are foundations of our online content – this includes head content, a barebones page structure, typographic structure, colour and a responsive framework.
 
 The idea is to choose the objects appropriate for each the project thereby saving time recreating them from scratch.
 
-#### Objects:
+####Objects:
 [Typography](http://eleventhirty.github.io/pattern_library/foundations/typography.html)
