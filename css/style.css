@@ -45,6 +45,7 @@ h1, h2, h3, h4 {
 }
 
 p, blockquote {
+    font-family: freight-sans-pro, sans-serif;
     margin-bottom: 1.5em;
     line-height: 1.4;}
 
