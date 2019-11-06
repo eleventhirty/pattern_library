@@ -5,7 +5,7 @@ A simple pattern library to help teach the principles of HTML and CSS to first y
 
 The structure of – Objects – Components – Patterns – Pages – has been recreated from [Building Beautiful UIs](https://bbuis.org/index.html) (BBUIs) by kind permission of [Chris Murphy](https://mrmurphy.com). 
 
-Students should create their own pattern library, I am not expecting to see a clone of my version. To develop a fuller understanding of what a pattern library actualy is you shouyld read [Paul Boag's] excellent post *[How to create a pattern library and why you should bother](https://boagworld.com/design/pattern-library)*
+Students should create their own pattern library, I am not expecting to see a clone of my version. To develop a fuller understanding of what a pattern library actualy is you shouyld read [Paul Boag's](https://boagworld.com/boagworks) excellent post *[How to create a pattern library and why you should bother](https://boagworld.com/design/pattern-library)*
 
 
 
