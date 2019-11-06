@@ -9,14 +9,33 @@
 
 /*---------- MAIN STYLING ----------*/
 body {
-    
-    max-width: 600px;
-    margin: auto;
     background: #fafafa;
     color: #333;
+    font-family: linotype-sabon, sans-serif;
+    font-style: normal;
 }
 
-hr {margin: 2em 0}
+header, section {    
+    max-width: 600px;
+    margin: auto;}
+
+header {
+    margin: 5em auto;
+}
+
+hr {
+    margin: 2em 0;
+    height: 1px;
+    background-color: #333;
+    color: #333;
+    border: 0 none
+}
+
+.dark {
+    background: #203536;
+    color: #fafafa;
+    padding: 3em 0;
+}
 
 /*---------------- TYPOGRAPHY ---------------*/
 
@@ -61,6 +80,8 @@ blockquote cite {
     background: crimson;
     padding: 1em
 }
+
+
 
 
 /*-------------------- FOOTER ---------------------*/
