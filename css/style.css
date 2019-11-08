@@ -31,21 +31,15 @@ hr {
     border: 0 none
 }
 
-.dark {
-    background: #203536;
-    color: #fafafa;
-    padding: 3em 0;
-}
-
 /*---------------- TYPOGRAPHY ---------------*/
 
 h1, h2, h3, h4 {
     font-weight: normal;
-    margin-bottom: 1em;
-}
+    margin-bottom: 1em;}
+
+p {font-family: freight-sans-pro, sans-serif;}
 
 p, blockquote {
-    font-family: freight-sans-pro, sans-serif;
     margin-bottom: 1.5em;
     line-height: 1.4;}
 
@@ -58,8 +52,7 @@ h3 {font-size: 1.414em;}
 blockquote {
    font-size: 1.414em;
    hanging-punctuation: first;
-   text-indent: -0.44em;
-}
+   text-indent: -0.44em;}
 
 blockquote cite {
     font-size: 0.75em;}
@@ -74,14 +67,32 @@ blockquote cite {
 .cite-large {
     font-size: 0.6em;}
 
+.scale {
+    padding-left: 3em;
+    font-size: 16px;
+}
 
-/*------------------ COLOUR SECTION --------------*/
+    /*------- ADAPTED CONTENT FOR DARK BACKGROUND ------------*/
+.dark {
+    background: #00515b;
+    color: #fafafa;
+    padding: 3em 0;
+}
+
+
+.dark hr {
+    margin: 2em 0;
+    height: 1px;
+    background-color: #fafafa;
+    color: #fafafa;
+    border: 0 none
+}
+/*------------------ COLOUR PAGE SPECIFICATIONS --------------*/
 
 .color-guide p {
     background: crimson;
     padding: 1em
 }
-
 
 
 
