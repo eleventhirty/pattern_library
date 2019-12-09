@@ -20,3 +20,5 @@ The idea is to choose the objects appropriate for each the project thereby savin
 
 #### Objects links:   
 [Typography](http://eleventhirty.github.io/pattern_library/objects/typography.html)
+
+[Nav](http://eleventhirty.github.io/pattern_library/components/nav-links.html)
